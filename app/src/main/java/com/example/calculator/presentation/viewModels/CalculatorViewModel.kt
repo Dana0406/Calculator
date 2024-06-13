@@ -64,7 +64,7 @@ class CalculatorViewModel @Inject constructor(
 
             "+/-" -> {
                 toggleSignUseCase.execute()
-                updateResult()
+                updatePerResult()
                 updateSolutionText()
             }
 
