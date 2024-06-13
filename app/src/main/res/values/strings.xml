@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="solution">Solution</string>
+    <string name="result">Result</string>
+</resources>

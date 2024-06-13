@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_end_margin">20dp</dimen>
+    <dimen name="height_text_view">48dp</dimen>
+    <dimen name="margin_top_text_view">44dp</dimen>
+    <dimen name="button_radious">9dp</dimen>
+    <dimen name="margin_bottom_line">25dp</dimen>
+    <dimen name="margin_bottom_result">64dp</dimen>
+    <dimen name="margin_buttons">20dp</dimen>
+    <dimen name="item_padding">16dp</dimen>
+
+    <dimen name="solution_text_size">40sp</dimen>
+    <dimen name="buttons_text_size">32sp</dimen>
+</resources>
